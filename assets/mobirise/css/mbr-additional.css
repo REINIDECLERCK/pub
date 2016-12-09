@@ -481,6 +481,22 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header2-h .mbr-section-text {
+  font-size: 8px;
+}
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-j SMALL {
+  color: #232323;
+}
+#msg-box2-k .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-k .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
