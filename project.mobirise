@@ -180,6 +180,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "8px"
+            }
+          },
           "_anchor": "header2-h",
           "_params": {
             "parallax": true,
@@ -224,12 +229,7 @@
           },
           "title": "licht.",
           "text": "1licht (het; o; meervoud: lichten)1elektromagnetisch golfverschijnsel waarvoor het oog gevoelig is: iem. het licht in de ogen niet gunnen helemaal niets; daar ging mij een licht op opeens begreep ik het; zijn licht laten schijnen over iets verduidelijken, begrijpelijk maken; in het licht van de naoorlogse verhoudingen als je daarmee rekening houdt; aan het licht komen bekend worden; het licht zien (a) geboren worden; (b) (van een boek) verschijnen; (c) gelovig worden; (d)(ironisch) iets eindelijk begrijpen; hij is geen licht is dom2voorwerp dat licht verspreidt: de lichten van de stad\n2licht (bijvoeglijk naamwoord, bijwoord)1helder, verlicht2helder van kleur, niet donker: lichtgekleurd\n3licht (bijvoeglijk naamwoord)1met weinig gewicht; niet zwaar; luchtig2gemakkelijk: veel handen maken licht werk3(van voedsel) gemakkelijk te verteren4weinig betekenend; gering: een lichte hersenschudding; een vrouw van lichte zedenprostituee; lichte muziek amusementsmuziek\n4licht (bijwoord)1niet zwaar: licht wegen; de fiets loopt licht2gemakkelijk3gauw, lichtvaardig: licht geloven4allicht: dit leidt licht tot misverstand5enigszins, niet zwaar; niet gewichtig: licht aangeslagen; iets licht opnemen&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-size": "8px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -508,6 +508,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "center",
+              "font-size": "8px"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header2-a",
           "_params": {
             "parallax": true,
@@ -552,16 +561,7 @@
           },
           "title": "LICHT.",
           "text": "1licht (het; o; meervoud: lichten)1elektromagnetisch golfverschijnsel waarvoor het oog gevoelig is: iem. het licht in de ogen niet gunnen helemaal niets; daar ging mij een licht op opeens begreep ik het; zijn licht laten schijnen over iets verduidelijken, begrijpelijk maken; in het licht van de naoorlogse verhoudingen als je daarmee rekening houdt; aan het licht komen bekend worden; het licht zien (a) geboren worden; (b) (van een boek) verschijnen; (c) gelovig worden; (d)(ironisch) iets eindelijk begrijpen; hij is geen licht is dom2voorwerp dat licht verspreidt: de lichten van de stad\n2licht (bijvoeglijk naamwoord, bijwoord)1helder, verlicht2helder van kleur, niet donker: lichtgekleurd\n3licht (bijvoeglijk naamwoord)1met weinig gewicht; niet zwaar; luchtig2gemakkelijk: veel handen maken licht werk3(van voedsel) gemakkelijk te verteren4weinig betekenend; gering: een lichte hersenschudding; een vrouw van lichte zedenprostituee; lichte muziek amusementsmuziek\n4licht (bijwoord)1niet zwaar: licht wegen; de fiets loopt licht2gemakkelijk3gauw, lichtvaardig: licht geloven4allicht: dit leidt licht tot misverstand5enigszins, niet zwaar; niet gewichtig: licht aangeslagen; iets licht opnemen\n",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "center",
-              "font-size": "8px"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
         },
         {
           "_tags": [
