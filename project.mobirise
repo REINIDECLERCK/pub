@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "3.10",
     "publishType": "local",
     "publishPath": "file:///Users/reinideclerck/Desktop/pub"
@@ -31,7 +31,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "Reini, Declerck, LUCA, school of arts, Ghent, 2016, work, glass, ceramix, ode to ed, clay, light, selfmade glass ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -139,15 +139,15 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0524-2000x1338-84.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sitereini1-2000x1338-13.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -155,8 +155,22 @@
             "showButtons": false
           },
           "title": "",
-          "text": "<span style=\"font-style: normal;\"><b>ARTS &amp; CRAFTS MADE BY REINI</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "text": "glass and ceramix&nbsp;<br><b>ARTS AND CRAFTS MADE BY REINI</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "text-align": "right",
+              "font-size": "32px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "80px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -209,7 +223,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/13427745-10206476520300900-7573031559678949103-n-1400x933-72-1400x933-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sitereini2-1400x933-84.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -241,32 +255,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0555-2000x1338-87-2000x1338-22-2000x1337-9-2000x1337-47.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0555-2000x1338-87-2000x1338-22-2000x1337-9.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0552-2000x1338-67-2000x1338-3-2000x1337-47-2000x1337-14.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0552-2000x1338-67-2000x1338-3-2000x1337-47.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0542-2000x1338-73-2000x1338-61-2000x1337-87-2000x1337-24.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0542-2000x1338-73-2000x1338-61-2000x1337-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sitereini7-2000x1338-61-2000x1338-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sitereini7-2000x1338-61.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -275,8 +269,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0532-2000x1338-42-2000x1338-92-2000x1338-9.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0532-2000x1338-42-2000x1338-92.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sitereini6-2000x1338-54-2000x1338-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sitereini6-2000x1338-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sitereini4-2000x1338-35-2000x1338-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sitereini4-2000x1338-35.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reinisite3-2000x1338-51-2000x1338-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reinisite3-2000x1338-51.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
